@@ -55,7 +55,9 @@
 - 로또 사주(사주 기반 번호 + 번호별 결제), 작명·이름 감정, 직업·이직 사주 리디자인
 
 **광고와 마케팅**
-- 서비스 광고 영상 제작
+- Higgsfield, Grok, Gemini, fal.ai API 등 생성형 AI 도구로 서비스 광고 영상 제작
+- 인스타그램 릴스와 스레드에 콘텐츠를 꾸준히 올리며 서비스 홍보
+- Claude 커넥터와 스킬을 직접 익혀 콘텐츠 기획 · 제작 · 운영 과정에 활용
 - 서비스 홍보와 마케팅 전반을 대부분 담당
 
 **운영과 품질**
@@ -88,6 +90,10 @@ AI가 JSON 대신 설명 문장을 섞어 보내면 파싱이 실패해 화면�
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Toss_Payments-0064FF?style=for-the-badge" alt="Toss Payments" />
+  <img src="https://img.shields.io/badge/Higgsfield-111111?style=for-the-badge" alt="Higgsfield" />
+  <img src="https://img.shields.io/badge/fal.ai-6D28D9?style=for-the-badge" alt="fal.ai" />
+  <img src="https://img.shields.io/badge/Instagram_Reels-E4405F?style=for-the-badge" alt="Instagram Reels" />
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
 </p>
 
 <br>
